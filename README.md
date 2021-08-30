@@ -3,6 +3,8 @@
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-end Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet
 README dosyası,bir adet de index.html barındırıyor.
 
+![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
@@ -19,10 +21,10 @@ cd kodluyoruzilkrepo
 
 code .
 
-## Contributing
+## Contributing
 
 Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konıu açınız.
 
-## License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
